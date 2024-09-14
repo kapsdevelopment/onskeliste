@@ -25,15 +25,23 @@ ul {
 }
 
 li {
+    display: flex;
+    align-items: center;
     padding: 10px;
     margin: 10px 0;
     background-color: #e9ecef;
     border-radius: 5px;
 }
 
+img {
+    margin-right: 15px;
+    border-radius: 5px;
+}
+
 a {
     color: #007bff;
     text-decoration: none;
+    font-size: 1.2em;
 }
 
 a:hover {

@@ -1,42 +1,57 @@
 [
   {
+    "name": "Romlemantisk tur med Lotta - kombineres gjerne med konsert",
+    "url": "https://as2.ftcdn.net/v2/jpg/02/46/88/75/1000_F_246887532_qHRyLyYvvbBcGM5ISXqAvRfAMFXZnOxT.jpg",
+    "image":"https://as2.ftcdn.net/v2/jpg/02/46/88/75/1000_F_246887532_qHRyLyYvvbBcGM5ISXqAvRfAMFXZnOxT.jpg"
+  },
+  {
     "name": "Strikka slips",
-    "url": "https://www.trendhim.no/pastell-blatt-strikkeslips-p.html"
+    "url": "https://www.trendhim.no/pastell-blatt-strikkeslips-p.html",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt7dcd2cfbc90d45de/blt69ee3fb029926dac/60dbb4d55c97640f9442cef7/15_83.jpg?format=pjpg&auto=webp&quality=75%2C90&width=640"
   },
   {
     "name": "Armbånd",
-    "url": "https://elegatto.com/products/voyage-silver-bracelet"
+    "url": "https://elegatto.com/products/voyage-silver-bracelet",
+    "image": "https://elegatto.com/cdn/shop/products/voyage-silver-403733.jpg?v=1710457897&width=700"
   },
   {
     "name": "Belte semsket",
-    "url": "https://www.boysofeurope.no/herreklaer/tilbehor/mr-capuchin-skinnbelte-semsket/mulch/"
+    "url": "https://www.boysofeurope.no/herreklaer/tilbehor/mr-capuchin-skinnbelte-semsket/mulch/",
+    "image": "https://www.boysofeurope.no/globalassets/importedresources/s/image/skinnbelte-an7-mulch_mr-capuchin-skinnbelte-semsket-an7.jpg?w=750&h=1000&quality=90"
   },
   {
     "name": "Belte cognac",
-    "url": "https://www.boysofeurope.no/herreklaer/tilbehor/mr-capuchin-skinnbelte/cognac/"
+    "url": "https://www.boysofeurope.no/herreklaer/tilbehor/mr-capuchin-skinnbelte/cognac/",
+    "image": "https://www.boysofeurope.no/globalassets/importedresources/s/image/skinnbelte-ahr-cognac-1_mr-capuchin-skinnbelte-ahr.jpg?w=750&h=1000&quality=90"
   },
   {
     "name": "Konsert med Breaking Benjamin",
-    "url": "https://www.breakingbenjamin.com/tour"
+    "url": "https://www.breakingbenjamin.com/tour",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2RhOWM4NmUtOTY0ZC00MWRlLWJjMGItNzM2YjFlYTdiNzgzXkEyXkFqcGc@._V1_.jpg"
   },
   {
     "name": "Konsert med Linkin Park",
-    "url": "https://fromzero.linkinpark.com/tour"
+    "url": "https://fromzero.linkinpark.com/tour",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Lead_Press_Photo_-_James_Minchin_III.jpg"
   },
   {
     "name": "Konsert med Jonathan Floyd",
-    "url": "https://www.ticketmaster.no/artist/jonathan-floyd-billetter/1184253"
+    "url": "https://www.ticketmaster.no/artist/jonathan-floyd-billetter/1184253",
+    "image": "https://unitedstage.no/wp-content/uploads/2021/01/foto-Yvonne-Haugen.jpg"
   },
   {
     "name": "Konsert med Rasmus Seebach",
-    "url": "https://www.facebook.com/RasmusSeebach/"
+    "url": "https://www.facebook.com/RasmusSeebach/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Rasmus_Seebach_2014.jpg"
   },
   {
     "name": "Konsert med Gracie Abrams",
-    "url": "https://www.ticketmaster.com/gracie-abrams-tickets/artist/2763148"
+    "url": "https://www.ticketmaster.com/gracie-abrams-tickets/artist/2763148",
+    "image": "https://i.scdn.co/image/ab67616100005174f6d51e6f5342d2d363220920"
   },
   {
-    "name": "Romlemantisk tur med Lotta",
-    "url": "https://as2.ftcdn.net/v2/jpg/02/46/88/75/1000_F_246887532_qHRyLyYvvbBcGM5ISXqAvRfAMFXZnOxT.jpg"
+    "name": "Romlemantisk tur med Lotta - kombineres gjerne med konsert",
+    "url": "https://as2.ftcdn.net/v2/jpg/02/46/88/75/1000_F_246887532_qHRyLyYvvbBcGM5ISXqAvRfAMFXZnOxT.jpg",
+    "image":"https://as2.ftcdn.net/v2/jpg/02/46/88/75/1000_F_246887532_qHRyLyYvvbBcGM5ISXqAvRfAMFXZnOxT.jpg"
   }
 ]
